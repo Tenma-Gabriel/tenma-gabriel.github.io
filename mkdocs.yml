@@ -1,0 +1,59 @@
+site_name: hongzw的博客
+site_author: hongzw
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - content.action.edit
+    - navigation.tabs
+  icon:
+    # logo: 'material/run'
+    logo: 'fontawesome/solid/person-running'
+
+copyright: '本站内容基于<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans"> CC BY-NC-SA 4.0 </a>协议共享'
+
+nav:
+  - 首页:
+    - 导航: index.md
+  - 算法: 
+    - 简介: algorithm/index.md
+    - 博弈论入门笔记: algorithm/game-theory-study-note.md
+    - 换根DP入门笔记: algorithm/re-rooting-study-note.md 
+  - C++:
+    - 简介: cpp/index.md
+  - 厨房:
+    - 简介: cook/index.md
+  - 友链: friends/index.md
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+markdown_extensions:
+  - admonition
+  - def_list
+  - footnotes
+  - meta
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.progressbar
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.tabbed:
+      alternate_style: true
