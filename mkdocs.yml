@@ -10,6 +10,11 @@ theme:
   icon:
     # logo: 'material/run'
     logo: 'fontawesome/solid/person-running'
+  palette:
+    primary: custom
+
+extra_css:
+  - stylesheets/extra.css
 
 copyright: '本站内容基于<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans"> CC BY-NC-SA 4.0 </a>协议共享'
 
