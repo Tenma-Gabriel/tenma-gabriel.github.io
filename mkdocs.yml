@@ -29,6 +29,22 @@ nav:
     - 简介: cpp/index.md
   - 厨房:
     - 简介: cook/index.md
+  - 归档:
+    - 简介: archived/index.md
+    - CF Round 757: archived/codefroces/Codeforces-Round-757.md
+    - CF Round 756: archived/codefroces/Codeforces-Round-756.md
+    - CF Round 744: archived/codefroces/Codeforces-Round-744.md
+    - CF Round 742: archived/codefroces/Codeforces-Round-742.md
+    - CF Round 741: archived/codefroces/Codeforces-Round-741.md
+    - CF Round 727: archived/codefroces/Codeforces-Round-727.md
+    - CF Round 726: archived/codefroces/Codeforces-Round-726.md
+    - CF Round 725: archived/codefroces/Codeforces-Round-725.md
+    - CF Round 724: archived/codefroces/Codeforces-Round-724.md
+    - CF Round 723: archived/codefroces/Codeforces-Round-723.md
+    - CF Round 722: archived/codefroces/Codeforces-Round-722.md
+    - CF Round 719: archived/codefroces/Codeforces-Round-719.md
+    - CF Round 765: archived/codefroces/Codeforces-Round-765.md
+    - CF Round 110: archived/codefroces/Codeforces-Round-110.md
   - 友链: friends/index.md
 
 extra_javascript:

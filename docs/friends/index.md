@@ -1,5 +1,3 @@
-# 简介
-
 这里存放一些友情连接
 
 [零岛](https://overstars.github.io/)
